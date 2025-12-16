@@ -1,0 +1,16 @@
+# Derlenmiş class dosyaları
+*.class
+out/
+
+# IntelliJ ayar dosyaları
+.idea/
+*.iml
+*.iws
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Veri dosyaları (İsteğe bağlı - İstersen örnek veri dursun diye bunları silme)
+# Tasks.txt
+# Wishes.txt
